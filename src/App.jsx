@@ -1,10 +1,8 @@
-
-import './App.css'
 import Weather from './components/weather'
+import './App.css'
 
 function App() {
   
-
   return (
     <>
       <Weather />
